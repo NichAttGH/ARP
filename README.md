@@ -1,6 +1,6 @@
 # ARP Assignments
 
-*Advanced and Robot Programming* (ARP) assignments
+*Advanced and Robot Programming* (ARP) Assignments
 
 ## Project made by:
 
