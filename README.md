@@ -1,8 +1,6 @@
-# ARP Assignments
+# Advanced and Robot Programming
 
-*Advanced and Robot Programming* (ARP) Assignments
-
-## Project made by:
+## Projects made by:
 
 Nicholas Attolino S5656048
 
